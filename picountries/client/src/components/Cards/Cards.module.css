@@ -1,0 +1,11 @@
+.Paises {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 50px;
+    row-gap: 10em;
+    margin-top: 100px;
+    font-size: large;
+    font-weight: 500;
+  }
+
+  

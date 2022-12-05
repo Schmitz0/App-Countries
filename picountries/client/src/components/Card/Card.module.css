@@ -1,0 +1,19 @@
+.bandera{
+    width: 90px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 1px;
+   border: solid 2px black;
+    transition: all ease 300ms;
+    box-shadow: -1px 3px 16px 9px rgba(0,0,0,0.43);
+  -webkit-box-shadow: -1px 3px 16px 9px rgba(0,0,0,0.43);
+  -moz-box-shadow: -1px 3px 16px 9px rgba(0,0,0,0.43);
+}
+
+.bandera:hover{
+    transform: scale(1.1);
+}
+
+

@@ -1,0 +1,23 @@
+.filter{
+    display: inline-flex;
+    margin-top: 10px;
+    column-gap: 10px;
+    align-items: center;
+}
+
+
+.input{
+    border-radius: 1.5rem;
+    border: 1 solid #e2e8f0;
+    padding: 0.5rem 1.6rem;
+    
+}
+
+.input:hover {
+    background-color: #1e293b;
+    color: #fff;
+
+  } 
+
+
+  
